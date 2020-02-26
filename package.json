@@ -1,5 +1,7 @@
 {
   "name": "rails-task-manager",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.12.1"
+  }
 }
